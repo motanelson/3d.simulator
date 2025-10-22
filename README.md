@@ -1,2 +1,2 @@
-# 3d.simulator
-3d simulator car simulator
+# drone.3d.simulator
+3d drone simulator car simulator
